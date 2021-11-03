@@ -1,0 +1,197 @@
+h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
+  border-bottom: solid 1px #ffffff;
+  padding-bottom: 0.5rem;
+  margin: 0 0 2rem 0;
+  font-size: 30px;
+}
+
+img.imagebts {
+  height: 280px;
+  width: 1350px;
+  border-radius: 100px;
+}
+
+td {
+  border: 2px solid white;
+}
+
+.bouton a{
+  display:block;               
+  padding: 1.1em 0;           
+  text-align: center;            
+  color: #fff;                
+  text-decoration: none;      
+  border: 1.5px solid #fff;   
+  border-radius: 50px;   
+  font-family: cursive;        
+}
+
+#liste {
+  margin: 0 0 0rem 0;
+  text-align: justify;
+  color : white;
+  font-family: cursive;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+#listeTEXT {
+  margin: 0 0 0rem 0;
+  text-align: justify;
+  color : white;
+  font-family: cursive;
+  font-size: 17px;
+}
+
+p.text {
+  color : white;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+p.text_petit {
+  color : white;
+  font-family: cursive;
+  font-size: 14px;
+}
+
+li.text {
+  color : white;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+p.textmilieux {
+  color : white;
+  font-family: cursive;
+  font-size: 20px;
+  text-decoration : underline;
+  text-align: center;
+}
+
+p.milieuGRAS{
+  color : white;
+  font-family: cursive;
+  font-size: 20px;
+  font-weight:  bolder;
+  text-align: center;
+}
+
+div.moi {
+  text-align: center;
+}
+
+img.moi {
+  height: 280px;
+  width: 250px;
+  border-radius: 100px;
+}
+
+img.cv {
+  height: 700px;
+  width: 575px;
+}
+
+a.lien {
+  text-decoration: none;
+  color: white;
+}
+
+hr {
+  border: none;
+  border-top: 3px double white;
+  color: white;
+  overflow: visible;
+  text-align: center;
+  height: 10px;
+}
+
+nav ul.menu{
+	list-style-type: none;
+	display: flex;              
+  padding:0;     
+}
+
+nav ul.menu a{
+	display:block;               
+  min-width: 650px;  
+  margin: 1rem;     
+  padding: 1rem 0;          
+  text-align: center;          
+  color: #fff;              
+  text-decoration: none;    
+  border: 1px solid #fff;   
+  border-radius: 4px;   
+  font-family: cursive;           
+}
+
+nav ul.menu li{
+	font-size: 20px;
+  font-family: cursive;
+}
+
+.menu a:hover {
+  background-color: white;
+  color: black;
+  border-color: #ffe843;
+  transition: all 1s ;         
+  font-family: cursive;
+}
+
+.bouton a:hover {
+  background-color: white;
+  color: black;
+  border-color: #ffe843;
+  transition: all 1s ;
+  font-family: cursive;
+}
+
+div.titre1 {
+	text-align: center;
+}
+
+h1.lbl1 {
+	padding: 50px;
+}
+
+h1 {
+	font-family: cursive;
+	font-size: 60px;
+	color: white;
+}
+
+h2 {
+	font-family: cursive;
+	font-size: 35px;
+	color: white;
+	border-color: black;
+}
+
+p.milieu2 {
+  font-size: 30px;
+  font-family: cursive;
+  color: white;
+}
+
+div.trait_dessus
+{  
+border-top: 1px solid #ffffff;
+width : 550px;
+} 
+
+div img.stage1 {
+  width: 100%;
+}
+
+div img.stage2 {
+  width: 14%;
+}
+
+body
+{
+	padding: 75px;
+	background-color: #fcfcfc;
+	background-size: cover;
+  /*background: linear-gradient(black, maroon, orange, yellow);*/
+	background-image:url(../image/fond.png);
+}
